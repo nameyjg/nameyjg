@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nameyjg
+- 👀 I’m interested in C/C++,python,electronic technique and physics.
+- 🌱 I’m currently learning C/C++,python,electronic technique,math and physics.
